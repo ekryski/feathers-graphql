@@ -4,6 +4,8 @@
 
 > A GraphQL adapter for Feathers
 
+# This is experimental and a work in progress. You did not see this. This repo does not exist :wink:.
+
 ## Installation
 
 ```

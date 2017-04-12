@@ -1,5 +1,7 @@
 # feathers-graphql
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/feathersjs/feathers-graphql.svg?token=7cf11d2e419ede6c41b5c707a0e80d22f81a336ca6eb19c2494b4565048e64a7)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/feathersjs/feathers-graphql.png?branch=master)](https://travis-ci.org/feathersjs/feathers-graphql)
 
 > A GraphQL adapter for Feathers
